@@ -1,0 +1,120 @@
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.staticwebassets.endpoints.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.exe
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.deps.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.runtimeconfig.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.AssemblyReference.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfoInputs.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfo.cs
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\scopedcss\bundle\MyFridgeAPI.styles.css
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridge.47A6271B.Up2Date
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\refint\MyFridgeAPI.dll
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.genruntimeconfig.cache
+C:\Users\OBS-AGP\source\repos\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\ref\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.staticwebassets.endpoints.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.exe
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.deps.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.runtimeconfig.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.AssemblyReference.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfoInputs.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfo.cs
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\scopedcss\bundle\MyFridgeAPI.styles.css
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridge.47A6271B.Up2Date
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\refint\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.genruntimeconfig.cache
+C:\Users\Hasnain\Desktop\My-Fridge-App\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\ref\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.staticwebassets.endpoints.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.exe
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.deps.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.runtimeconfig.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.AssemblyReference.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfoInputs.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.AssemblyInfo.cs
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\scopedcss\bundle\MyFridgeAPI.styles.css
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridge.47A6271B.Up2Date
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\refint\MyFridgeAPI.dll
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.pdb
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\MyFridgeAPI.genruntimeconfig.cache
+C:\Users\Hasnain\Desktop\New folder\MyFridgeAPI\MyFridgeAPI\obj\Debug\net10.0\ref\MyFridgeAPI.dll
